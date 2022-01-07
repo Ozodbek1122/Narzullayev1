@@ -1,0 +1,25 @@
+body{background: url(https://picsum.photos/1000) no-repeat; 
+  background-size: cover;
+  height: 500px;
+  position: relative;
+}
+address{
+margin-left: 17%;
+margin-top: 2%;	
+border-style: dotted;
+margin-right: 50%;
+margin-bottom: 1%;
+}
+div{
+	margin-left: 10%;
+}
+mark{
+	margin-left: 3%;
+}
+a{
+	margin-left: 5%;
+}
+iframe{
+  height: 1400px;
+  width: 970px;
+}

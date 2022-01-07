@@ -1,0 +1,6 @@
+body{
+background: url(https://picsum.photos/1000) no-repeat; 
+  background-size: cover;
+  height: 500px;
+  position: relative;
+}
